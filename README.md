@@ -2,7 +2,7 @@
 
 A minimal hard-shell pencil case. Personal industrial design project — from concept and CAD to photorealistic visualization, prepared for small-batch production.
 
-![Pencil case on a desk](images/01-desk.jpg)
+![Pencil case on a desk](https://cdn.jsdelivr.net/gh/studygeorge/pencil-case@d7f0999a079ff2a3dcd9352eb1cda5ef63c0f78e/images/01-desk.jpg)
 
 ## Design
 
@@ -17,9 +17,9 @@ A rounded rectangular shell with a soft-touch matte finish, a contrasting cobalt
 
 | | |
 |---|---|
-| ![Opened case with tools](images/02-open.jpg) | ![Flat lay, contents laid out](images/03-flatlay.jpg) |
+| ![Opened case with tools](https://cdn.jsdelivr.net/gh/studygeorge/pencil-case@d7f0999a079ff2a3dcd9352eb1cda5ef63c0f78e/images/02-open.jpg) | ![Flat lay, contents laid out](https://cdn.jsdelivr.net/gh/studygeorge/pencil-case@d7f0999a079ff2a3dcd9352eb1cda5ef63c0f78e/images/03-flatlay.jpg) |
 
-![Orthographic views](images/04-views-sheet.jpg)
+![Orthographic views](https://cdn.jsdelivr.net/gh/studygeorge/pencil-case@d7f0999a079ff2a3dcd9352eb1cda5ef63c0f78e/images/04-views-sheet.jpg)
 
 ## Status
 
